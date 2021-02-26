@@ -1,0 +1,16 @@
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\NumberGuessing.exe
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\NumberGuessing.deps.json
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\NumberGuessing.runtimeconfig.json
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\NumberGuessing.runtimeconfig.dev.json
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\NumberGuessing.dll
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\ref\NumberGuessing.dll
+C:\Users\mleary\RiderProjects\NumberGuessing\bin\Debug\net5.0\NumberGuessing.pdb
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.csprojAssemblyReference.cache
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.dll
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\ref\NumberGuessing.dll
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.pdb
+C:\Users\mleary\RiderProjects\NumberGuessing\obj\Debug\net5.0\NumberGuessing.genruntimeconfig.cache
